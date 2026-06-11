@@ -15,7 +15,7 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 st.set_page_config(
     layout="wide",
     page_title="Hệ thống Phát hiện Gian lận tại Agribank",
-    page_icon="ΩΩ"
+    page_icon="❤️"
 )
 
 # ==============================================================================
